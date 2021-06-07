@@ -130,7 +130,7 @@ public class TheGameOfDice {
                                     break;
                                 }
                             }
-                        } while (diceNumber == dice.getMax());
+                        } while (diceNumber == 6);
                         ++i;
                         break;
                     case "d":
